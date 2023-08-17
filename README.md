@@ -23,8 +23,13 @@ zkSync Era Mainnet
 0xD2E4AFb120be9e2B51C0F95bf47604623F28C3bb
 ```
 
+### Source code
+
+Can be found in `src/query.sol`.
+
 #### ABI
 
+Can be found in `abi/QueryBlock.json`.
 
 #### Get functions
 
