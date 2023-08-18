@@ -17,10 +17,10 @@ During the catch-up period, if one would like to perform calculation with curren
 #### Addresses (Yes both testnet and mainnet have the same address)
 ```
 zkSync Era Testnet (coupled with Goerli)
-0xD2E4AFb120be9e2B51C0F95bf47604623F28C3bb
+0x5DB4d431E4308d8b41b804be0850B79332A2025C
 
 zkSync Era Mainnet
-0xD2E4AFb120be9e2B51C0F95bf47604623F28C3bb
+0x5DB4d431E4308d8b41b804be0850B79332A2025C
 ```
 
 ### Source code
